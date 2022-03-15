@@ -4,7 +4,7 @@ updated: 2021-02-23
 ---
 
 
-I defedend my Ph.D. thesis "Advances in Coherent Raman Scattering" at Politecnico di Milano, with advisors [Prof. Dario Polli](https://www.linkedin.com/in/dariopolli){:target="_blank"} and Prof. Giulio Cerullo, getting the title **cum laude**.
+I defedend my Ph.D. thesis "Advances in Coherent Raman Scattering" at Politecnico di Milano, with advisors [Prof. Dario Polli](https://www.linkedin.com/in/dariopolli){:target="_blank"} and Prof. Giulio Cerullo, getting the title *cum laude*.
 
 Coherent Raman Scattering (CRS) is a non-linear (involves high-power lasers) optical technique to probe matter and get chemical information.
 When used within a (very particular) microscope, it offers the inforomation of spatial distribution of chemicals, and that's a promising and relevant application in biomedical field.
