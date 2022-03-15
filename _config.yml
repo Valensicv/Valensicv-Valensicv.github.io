@@ -7,7 +7,7 @@ remote_theme: heiswayi/the-plain
 title:              "Carlo M. Valensise"
 description:        "Personal Website"
 author_name:        "Carlo M. Valensise" # change this to your name
-logo_url:           #https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars.githubusercontent.com/u/67427707 #https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://Valensicv.github.io # main url
