@@ -11,7 +11,7 @@ logo_url:           https://avatars.githubusercontent.com/u/67427707 #https://av
 
 # Site Settings
 url:                https://Valensicv.github.io # main url
-baseurl:            https://Valensicv.github.io # main url
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Europe/Rome
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
