@@ -3,7 +3,7 @@ layout: page
 title: Carlo Michele Valensise
 ---
 
-1993, PhD in Physics. Post-Doc resesarcher at [CREF](https://cref.it/){:target="_blank"}.
+1993, PhD in Physics (2021). Post-Doc resesarcher at [CREF](https://cref.it/){:target="_blank"}.
 
 <div class="divider"></div>
 
