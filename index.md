@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Carlo Michele Valensise
 ---
 
-Carlo Michele Valensise, 1993, from Rome (IT). Physicits. PhD in Physics. Post-Doc resesarcher at [CREF](https://cref.it/){:target="_blank"}.
+1993. PhD in Physics. Post-Doc resesarcher at [CREF](https://cref.it/){:target="_blank"}.
 
 <div class="divider"></div>
 
