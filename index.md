@@ -13,5 +13,5 @@ Currently working on
 
 - Photonic Computing: Light can be used to perform computations at the speed of light (!). [How?](https://www.newcomplexlight.org/){:target="_blank"}. More genrally the intersection between Optics and AI is intriguing me. 
 
-- Check [here](Valensicv.github.io/about.html) for the latest updates
+- Check [here](Valensicv.github.io/about) for the latest updates
 
