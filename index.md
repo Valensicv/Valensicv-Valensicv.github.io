@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Carlo Michele Valensise, 1993, from Rome (IT). Physicits. PhD in Physics, Optics, from Politechnic University of Milan. Post-Doc resesarcher at [CREF](https://cref.it/){:target="_blank"}.
+Carlo Michele Valensise, 1993, from Rome (IT). Physicits. PhD in Physics. Post-Doc resesarcher at [CREF](https://cref.it/){:target="_blank"}.
 
 <div class="divider"></div>
 
@@ -15,10 +15,3 @@ Currently working on
 
 
 
-<div class="divider"></div>
-
-# Publications
-###### in reverse cronological order
-
-
-Working on it...
